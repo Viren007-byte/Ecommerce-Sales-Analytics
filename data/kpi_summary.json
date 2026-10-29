@@ -1,0 +1,11 @@
+{
+  "total_orders": 2400,
+  "delivered_orders": 2100,
+  "recognized_revenue_inr": 3563073.4,
+  "recognized_profit_inr": 1691933.4,
+  "average_order_value_inr": 1696.7,
+  "unique_delivered_customers": 587,
+  "cancelled_orders": 176,
+  "returned_orders": 124,
+  "repeat_customers": 534
+}
